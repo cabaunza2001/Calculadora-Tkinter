@@ -1,7 +1,7 @@
 # Calculadora-Tkinter
 Programacion de computadores - Taller Tkinter
 Estudiante: Camilo Andres Abaunza Suarez
-Grupo G-12
+-Grupo G-12
 
 Libreria que utilizo la aplicaion:
 -Tkinter
